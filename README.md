@@ -1,9 +1,15 @@
-npx create-react-app trindade
-cd nome-do-projeto
-npm install axios
-npm start
+rodar:
+npm i nas pasta do server e também na pasta do front
 
-npm init -y
-npm install express
-npm install cors
-node server.js
+acessar a pasta server e executar
+node ./server.js
+o servidor ira rodar na porta 5000
+rotas:  GET http://localhost:5000/api/tasks/
+        POST http://localhost:5000/api/tasks/
+        DELETE http://localhost:5000/api/tasks/ID
+
+Rodar o Front:
+npm start
+acessar http://localhost:3000
+
+

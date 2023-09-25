@@ -1,3 +1,5 @@
+# Sistema simples de lista de tarefas demonstrando integração front em react e axios e back em express e cors
+
 rodar:
 npm i nas pasta do server e também na pasta do front
 

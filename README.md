@@ -8,7 +8,9 @@ node ./server.js
 
 o servidor ira rodar na porta 5000
 
-rotas:  GET http://localhost:5000/api/tasks/
+rotas:  
+
+        GET http://localhost:5000/api/tasks/
 
         POST http://localhost:5000/api/tasks/
         
